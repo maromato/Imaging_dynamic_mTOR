@@ -3,15 +3,21 @@ This is the code repository for the paper entitled "Imaging dynamic mTORC1 pathw
 
 The details of the experiments and analysis were shown in the paper.
 
-Please let us know if there are any questions for the analysis and code. 
+Please let us know if there are any questions for the analysis and code either of the addresses.
 
-toshihiko.oki@gmail.com
+1. toshihiko.oki@gmail.com
 
-maromato2012@gmail.com
+2. maromato2012@gmail.com
 
-## Code for Image analysis for Fig 1I and Fig 4C.
+## Code for Image analysis for Fig 1I
 
-This is currently underconstuction.
+This is underconstruction.
+
+Briefly, olympus Oib files were converted into tiff files for images of individual visual fileds by Image J and python based macro.
+
+The toolkit for this analysis was described the link below.
+
+https://github.com/maromato/olympus_oib_tiff_converter.py
 
 ## Code for QC, Alignment, counting of RNA-seq for Fig 3A and Fig 4G.
 
