@@ -11,7 +11,7 @@ or
 
 2. maromato2012@gmail.com
 
-### 1. the toolkit for analysis of olympus oib file used for Fig 1I
+### 1. The toolkit for analysis of olympus oib file used for Fig 1I
 
 This is underconstruction.
 
@@ -21,25 +21,25 @@ The toolkit for this analysis is availavle in the link below.
 
 https://github.com/maromato/olympus_oib_tiff_converter.py
 
-### 2. Code for QC, Alignment, counting of RNA-seq for Fig 3A and Fig 4G.
+### 2. The code for QC, Alignment, counting of RNA-seq for Fig 3A and Fig 4G.
 
 The code will be available upon request. 
 
-### 3. Code for RNA-seq analysis for Fig 3A and Fig 4G.
+### 3. The code for RNA-seq analysis for Fig 3A and Fig 4G.
 
 This is currently underconstuction. 
 
-### 4. Code for microarray analysis and survival for Fig 3D&F, S3B-D.
+### 4. The code for microarray analysis and survival for Fig 3D&F, S3B-D.
 
 The code is available in the link below.
 
 https://github.com/maromato/humanAML_MTOR
 
-### 5. Code for clontracer analysis for Fig 4K, S4G&H.
+### 5. The code for clontracer analysis for Fig 4K, S4G&H.
 
 The code will be provided upon request.
 
-### 6. Code for Image analysis for Fig S5E-F.
+### 6. The code for Image analysis for Fig S5E-F.
 This is currently underconstuction.
 
 The code is available in the link below (UNDER CONSTRUCTION)
