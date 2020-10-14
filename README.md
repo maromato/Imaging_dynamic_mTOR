@@ -7,6 +7,8 @@ Please let us know if there are any questions for the analysis and code either o
 
 1. toshihiko.oki@gmail.com
 
+or 
+
 2. maromato2012@gmail.com
 
 ## Code for Image analysis for Fig 1I
@@ -15,21 +17,21 @@ This is underconstruction.
 
 Briefly, olympus Oib files were converted into tiff files for images of individual visual fileds by Image J and python based macro.
 
-The toolkit for this analysis was described the link below.
+The toolkit for this analysis is availavle in the link below.
 
 https://github.com/maromato/olympus_oib_tiff_converter.py
 
 ## Code for QC, Alignment, counting of RNA-seq for Fig 3A and Fig 4G.
 
-STAR software was used as described elsewhere. 
+STAR software was used as described in the link. 
 
 ## Code for RNA-seq analysis for Fig 3A and Fig 4G.
 
-EdgeR was uses as described elsewhere. This is currently underconstuction. 
+This is currently underconstuction. 
 
-#3 Code for microarray analysis and survival for Fig 3D&F, S3B-D.
+## Code for microarray analysis and survival for Fig 3D&F, S3B-D.
 
-Described in the link below.
+The code is available in the link below.
 
 https://github.com/maromato/humanAML_MTOR
 
@@ -38,3 +40,6 @@ The code will be provided upon request.
 
 ## Code for Image analysis for Fig S5E-F.
 This is currently underconstuction.
+
+The code is available in the link below (UNDER CONSTRUCTION)
+https://github.com/maromato/image_analysis_FRET
