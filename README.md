@@ -3,7 +3,7 @@ This is the code repository for the paper entitled "Imaging dynamic mTORC1 pathw
 
 The details of the experiments and analysis were shown in the paper.
 
-Please let us know if there are any questions for the analysis and code either of the addresses.
+Please let us know if there are any questions for the analysis and code by email to either of the addresses.
 
 1. toshihiko.oki@gmail.com
 
@@ -11,11 +11,11 @@ or
 
 2. maromato2012@gmail.com
 
-### 1. Code for Image analysis for Fig 1I
+### 1. the toolkit for analysis of olympus oib file used for Fig 1I
 
 This is underconstruction.
 
-Briefly, olympus Oib files were converted into tiff files for images of individual visual fileds by Image J and python based macro.
+Briefly, olympus oib files can be converted into tiff files for images of individual visual fileds by Image J and python based macro.
 
 The toolkit for this analysis is availavle in the link below.
 
