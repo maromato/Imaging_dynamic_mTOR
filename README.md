@@ -28,7 +28,7 @@ The code will be available upon request.
 ### 3. The code for RNA-seq analysis for Fig 3A and Fig 4G.
 
 This is currently underconstuction. 
-Basically custum modificaiton of the R code for RNA analysis which was develped by Harvard Rearch Computing Core.
+Basically customly modified version of the R code for RNA analysis which was originally develped by Harvard Rearch Computing Core was used for the analysis.
 
 Description:
 https://wiki.rc.hms.harvard.edu/display/O2/R+Biostatistics+Course
