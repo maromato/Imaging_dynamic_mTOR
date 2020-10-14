@@ -28,6 +28,13 @@ The code will be available upon request.
 ### 3. The code for RNA-seq analysis for Fig 3A and Fig 4G.
 
 This is currently underconstuction. 
+Basically custum modificaiton of the R code for RNA analysis which was develped by Harvard Rearch Computing Core.
+
+Description:
+https://wiki.rc.hms.harvard.edu/display/O2/R+Biostatistics+Course
+Code:
+https://wiki.rc.hms.harvard.edu/display/O2/R+Biostatistics+Course?preview=/13240364/35488509/edgeR_RNA-Seq_Class_1_4_R_Script.v2-1.r
+
 
 ### 4. The code for microarray analysis and survival for Fig 3D&F, S3B-D.
 
