@@ -1,5 +1,7 @@
 # Imaging_dynamic_mTOR
 This is the code repository for the paper entitled "Imaging dynamic mTORC1 pathway activity in vivo reveals marked shifts that support time-specific inhibitor therapy in AML" 
+	
+Oki T, Mercier F, Kato H, Jung Y et al. Imaging dynamic mTORC1 pathway activity in vivo reveals marked shifts that support time-specific inhibitor therapy in AML. Nat Commun 2021 Jan 11;12(1):245. PMID: 33431855
 
 The details of the experiments and analysis were shown in the paper.
 
